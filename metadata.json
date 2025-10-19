@@ -1,0 +1,5 @@
+{
+  "name": "3D Voxel Game",
+  "description": "A simple 3D voxel-based sandbox game built with React, Three.js, and Tailwind CSS. Players can explore the world, and add or remove blocks of different textures.",
+  "requestFramePermissions": []
+}
